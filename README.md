@@ -1,2 +1,2 @@
-# blog.github.io
-HEXO Blog
+# www.nice.im
+HUGO Blog 太难了...
